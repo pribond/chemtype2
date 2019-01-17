@@ -19,3 +19,5 @@ You'll also need the following dependencies:
 You can then test it out for yourself by running:
 
 `python chemtype.py`
+
+link to detailed discussion : https://web.stanford.edu/class/cs231a/prev_projects_2016/optical_recognition_of_chemical_structures.pdf
